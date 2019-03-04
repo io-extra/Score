@@ -1,0 +1,9 @@
+package [io-extra]/Score v0.0.0
+
+require (
+        [io-core]/Files v5.1.0
+        [io-core]/Modules v5.1.0
+        [io-core]/Oberon v5.1.0
+        [io-core]/Edit v5.1.0
+)
+
